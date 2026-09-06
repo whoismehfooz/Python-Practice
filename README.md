@@ -36,7 +36,3 @@ After completing this repository, I will move on to:
 ---
 
 📌 This repository represents the **foundation stage of my backend development journey**
-
-
-
-
